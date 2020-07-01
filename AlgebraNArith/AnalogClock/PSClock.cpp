@@ -1,5 +1,6 @@
-// PSRenderer.cpp : Defines the entry point for the application.
-//
+// At the Windows Command line 
+//        g++ PSClock.cpp -lgdi32
+//        a.exe ( invoke at the Command line )
 
 #include <windows.h>
 #include <math.h>
